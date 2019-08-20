@@ -1,2 +1,5 @@
 import math
-print('addition started')
+
+
+def add(x,y):
+  return x+y
